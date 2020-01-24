@@ -1,0 +1,31 @@
+package tarea_String;
+
+import java.util.Scanner;
+
+public class prob5 {
+
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		int cant,cantVocales;
+		String palabra;
+		System.out.println("escriba una palabra: ");
+		palabra = entrada.nextLine();
+		cant=palabra.length();
+		cantVocales=contarTodasVocales(palabra,cant);
+		System.out.println("la cantidad de vocales sin repetir es:");
+		System.out.println(cantVocales);
+	}
+	
+	public static int contarTodasVocales(String txt, int c) {
+		int pos1,pos2,pos3,pos4,pos5;
+		int cantV=0;
+		pos1 = "txt".indexOf("a",0);
+		pos2 = "txt".indexOf("e",0);
+		pos3 = "txt".indexOf("i",0);
+		pos4 = "txt".indexOf("o",0);
+		pos5 = "txt".indexOf("u",0);
+		
+		cantV = pos1+pos2+pos3+pos4+pos5;
+		return cantV;
+	}
+}

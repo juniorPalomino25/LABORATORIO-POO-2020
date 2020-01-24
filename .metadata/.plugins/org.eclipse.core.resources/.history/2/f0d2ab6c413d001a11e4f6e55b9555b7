@@ -1,0 +1,15 @@
+package tarea_String;
+
+import java.util.Scanner;
+
+public class prob1 {
+
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		String palabra;
+		
+		System.out.println("escriba una cadena");
+		palabra = entrada.nextLine();
+		System.out.println(palabra);
+	}
+}

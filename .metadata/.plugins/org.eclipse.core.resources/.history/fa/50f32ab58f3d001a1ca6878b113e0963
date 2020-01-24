@@ -1,0 +1,13 @@
+package tarea_String;
+
+import java.util.Scanner;
+
+public class Prob10 {
+
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		
+		
+	
+	}
+}

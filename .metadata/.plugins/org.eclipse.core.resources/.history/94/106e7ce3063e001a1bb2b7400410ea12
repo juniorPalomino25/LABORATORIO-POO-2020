@@ -1,0 +1,11 @@
+package pe.edu.unmsm.agenda;
+
+public class main {
+
+public static void agregarContactos() {
+		
+	}
+public static void eliminarContactos() {
+		
+	}
+}

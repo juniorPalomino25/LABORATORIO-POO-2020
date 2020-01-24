@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Lab(3)_Agenda/src/pe/edu/unmsm/agenda/Agenda.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="pe.edu.unmsm.agenda.Agenda"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Lab(3)_Agenda"/>
+</launchConfiguration>
