@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><launchHistory>
 <launchGroup id="org.eclipse.debug.ui.launchGroup.debug">
 <mruHistory>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Agenda (1)&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Agenda&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;ejercicio_string&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Prob10&quot;/&gt;"/>
@@ -10,7 +11,6 @@
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob4&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob1&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob3&quot;/&gt;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob2&quot;/&gt;"/>
 </mruHistory>
 <favorites/>
 </launchGroup>
@@ -20,6 +20,7 @@
 </launchGroup>
 <launchGroup id="org.eclipse.eclemma.ui.launchGroup.coverage">
 <mruHistory>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Agenda (1)&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Agenda&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;ejercicio_string&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Prob10&quot;/&gt;"/>
@@ -29,7 +30,6 @@
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob4&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob1&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob3&quot;/&gt;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob2&quot;/&gt;"/>
 </mruHistory>
 <favorites/>
 </launchGroup>
@@ -39,6 +39,7 @@
 </launchGroup>
 <launchGroup id="org.eclipse.debug.ui.launchGroup.run">
 <mruHistory>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Agenda (1)&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Agenda&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;ejercicio_string&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Prob10&quot;/&gt;"/>
@@ -48,7 +49,6 @@
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob4&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob1&quot;/&gt;"/>
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob3&quot;/&gt;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;launchConfiguration local=&quot;true&quot; path=&quot;prob2&quot;/&gt;"/>
 </mruHistory>
 <favorites/>
 </launchGroup>

@@ -1,17 +1,17 @@
-package pe.edu.unmsm.agenda;
+package Prob9;
 
-public class Contacto{
-	
+public class Contacto {
 	String nombre;
+	String telefono;
 	int edad;
-	double salario;
 	
 	public Contacto(){
 		
-	}
-	public Contacto(String nombre, double salario, int edad){
+		}
+	
+	public Contacto(String nombre, String telefono, int edad){
 		this.nombre = nombre;
-		this.salario = salario;
+		this.telefono = telefono;
 		this.edad = edad;
 		}
 	
@@ -23,12 +23,12 @@ public class Contacto{
 			return nombre;
 		}
 		
-		public void SetSalario (double salario) {
-			this.salario = salario;
+		public void SetTelefono (String telefono) {
+			this.telefono = telefono;
 		}
 		
-		public double getSalario() {
-			return salario;
+		public String getTelefono() {
+			return telefono;
 		}
 	
 		public void SetEdad (int edad) {
@@ -41,6 +41,8 @@ public class Contacto{
 		
 		@Override
 		public String toString() {
-			return this.nombre + "\t" + this.salario + "\t" + this.edad;
-		}
+			return this.nombre + "\t" + this.telefono + "\t" + this.edad;
+		
 }
+	}
+	
