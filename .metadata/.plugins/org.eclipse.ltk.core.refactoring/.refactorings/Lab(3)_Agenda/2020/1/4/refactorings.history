@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;Lab(3)_Agenda&apos;&#x0D;&#x0A;- Original project: &apos;Lab(3)_Agenda&apos;&#x0D;&#x0A;- Original element: &apos;pe.edu.unmsm.agenda.main.java&apos;" description="Delete element" element1="/src&lt;pe.edu.unmsm.agenda{main.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1579800989573" subPackages="false" version="1.0"/>
-</session>
